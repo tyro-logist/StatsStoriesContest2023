@@ -1,0 +1,17 @@
+Stats+Stories 300th Episode Data Visualization Key,
+,
+Offical Number,Number that was put on the episode upon release. 
+Release Date,Month/Day/Year
+Title,Title of the Episode
+Guest(s),Guests who appeared on the episode. Multiple guests are separated by a comma. 
+Length,Minutes:Seconds:Miliseconds
+Listens*,"All numbers before ""Stats+Stories Valentine's Day Special"" were collected on February 14th. Totals for episodes ""Stats+Stories Valentine's Day Special"" and after were collected on March 8th (via soundcloud)"
+Category,The primary category the episode is listed as on our webstie
+Format,The type (short/long form) of episode
+Panel,Who was hosting this particular episode
+Link,Link to the episode on the Stats+Stories website.
+Description,Description of the episode and guest
+Guest Location,Where the guest was located/affliated with when the episode was recorded
+Venue,Where were the guests at when they recorded this episode
+Notes,Fun anecdotes and tidbits from producer Charles
+Total Number,Real total episode number
